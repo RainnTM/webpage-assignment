@@ -72,7 +72,8 @@ nav a:hover::before {
   width: 100%;
 }
 #progressbar {
-    background-color: black;
+    background-color: rgb(13, 20, 37);
+
     border-radius: 13px;
     /* (height of inner div) / 2 + padding */
     padding: 3px;
@@ -88,7 +89,7 @@ nav a:hover::before {
     padding-bottom: 30px;
   }
   #progressbar2 {
-    background-color: black;
+    background-color: rgb(13, 20, 37);
     border-radius: 13px;
     /* (height of inner div) / 2 + padding */
     padding: 3px;
